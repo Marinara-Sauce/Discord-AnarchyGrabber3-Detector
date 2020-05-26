@@ -12,3 +12,6 @@
 # Pre-reqs
  This is a very basic program. It was written in C# with Visual Studio Community 2019, Version 16.4.5
  Runs using the .NET Framework, Version 4.7.2
+
+# Disclaimer
+ This program was developed in an afternoon without much testing and research. If you are going to use this program, continue to be careful about what you are downloading/running. Other versions of the trojan can technically bypass some filters in the program. I'm not responsible for any damages related to this program.
